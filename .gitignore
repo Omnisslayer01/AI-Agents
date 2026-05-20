@@ -8,3 +8,6 @@ wheels/
 
 .venv
 .env
+project_root\ssh_key
+
+project_root\ssh_key.pub
